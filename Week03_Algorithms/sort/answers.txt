@@ -1,0 +1,17 @@
+sort1 uses: Bubble Sort
+
+How do you know?: performs slowly on the random list. But performs swiftly on sorted lists.Perform accordingly, O(n).
+    random5000 0m0.75s
+    sorted5000 0m0.032s
+
+sort2 uses: Merge Sort
+
+How do you know?: performs fastest on the random list. Perform accordingly, O(n).
+    random5000 0m0.026s
+    sorted5000 0m0.024s
+
+sort3 uses: Selection Sort
+
+How do you know?: performs faster on the random list than bubble sort and  slower than merge sort . Perform accordingly, O(n^2).
+    random5000 0m0.057s
+    sorted5000 0m0.050s
