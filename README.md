@@ -17,26 +17,25 @@ CS50x is an entry-level course designed to teach the basics of computer science,
 Each folder corresponds to a specific week of the course and contains solutions to its problem sets. Click on the links below to explore the code and projects!  
 
 ### [Week 1: C Basics](./Week01_C)
-- [Hello, Me](./Week01_C/me)  
-- [Mario (Less)](./Week01_C/mario-less)  
-- [Mario (More)](./Week01_C/mario-more)  
-- [Cash](./Week01_C/cash)  
+- [Hello, Me](./Week01_C/me)
+- [Mario (Less)](./Week01_C/mario-less)
+- [Mario (More)](./Week01_C/mario-more)
+- [Cash](./Week01_C/cash)
 
-### Week 2: Arrays and Strings  
-- [Scrabble](./Week2/Scrabble.c)  
-- [Readability](./Week2/Readability.c)  
-- [Caesar or Substitution](./Week2/Ciphers.c)  
+### [Week 2: Arrays and Strings](./Week02_Arrays)
+- [Scrabble](./Week02_Arrays/scrabble)
+- [Readability](./Week02_Arrays/readability)
+- [Caesar](./Week02_Arrays/caesar)
 
-### Week 3: Algorithms  
-- [Sort](./Week3/Sort.c)  
-- [Plurality](./Week3/Plurality.c)  
-- [Runoff or Tideman](./Week3/Election.c)  
+### [Week 3: Algorithms](./Week03_Algorithms)
+- [Sort](./Week03_Algorithms/sort)
+- [Plurality](./Week03_Algorithms/plurality)
+- [Runoff](./Week03_Algorithms/runoff)
 
-### Week 4: Memory Management  
-- [Volume](./Week4/Volume.c)  
-- [Filter (Less)](./Week4/FilterLess.c)  
-- [Filter (More)](./Week4/FilterMore.c)  
-- [Recover](./Week4/Recover.c)  
+### [Week 4: Memory Management](./Week04_Memory)  
+- [Volume](./Week04_Memory/volume)  
+- [Filter (Less)](./Week04_Memory/filter-less) 
+- [Recover](./Week04_Memory/recover)  
 
 ### Week 5: Data Structures  
 - [Inheritance](./Week5/Inheritance.c)  
