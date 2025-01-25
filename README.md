@@ -37,30 +37,29 @@ Each folder corresponds to a specific week of the course and contains solutions 
 - [Filter (Less)](./Week04_Memory/filter-less) 
 - [Recover](./Week04_Memory/recover)  
 
-### Week 5: Data Structures  
-- [Inheritance](./Week5/Inheritance.c)  
-- [Speller](./Week5/Speller.c)  
+### [Week 5: Data Structures](./Week05_Data Structures)  
+- [Inheritance](./Week05_Data Structures/inheritance)  
+- [Speller](./Week05_Data Structures/speller)  
 
-### Week 6: Sentimental Programming (Python)  
-- [Sentimental / Hello](./Week6/SentimentalHello.py)  
-- [Sentimental / Mario (Less)](./Week6/SentimentalMarioLess.py)  
-- [Sentimental / Mario (More)](./Week6/SentimentalMarioMore.py)  
-- [Sentimental / Cash or Credit](./Week6/SentimentalCashOrCredit.py)  
-- [Sentimental / Readability](./Week6/SentimentalReadability.py)  
-- [DNA](./Week6/DNA.py)  
+### [Week 6: Sentimental Programming (Python)](./Week06_Python)  
+- [Sentimental / Hello](./Week06_Python/sentimental-hello)  
+- [Sentimental / Mario (Less)](./Week06_Python/sentimental-mario-less)
+- [Sentimental / Cash](./Week06_Python/sentimental-cash/sentimental-cash)  
+- [Sentimental / Readability](./Week06_Python/sentimental-readability)  
+- [DNA](./Week06_Python/dna)  
 
-### Week 7: SQL Databases  
-- [Songs](./Week7/Songs.sql)  
-- [Movies](./Week7/Movies.sql)  
-- [Fiftyville](./Week7/Fiftyville.sql)  
+### [Week 7: SQL Databases](./Week07_SQL)  
+- [Songs](./Week07_SQL/songs)  
+- [Movies](./Week07_SQL/movies)  
+- [Fiftyville](./Week07_SQL/fiftyville)  
 
-### Week 8: Web Development  
-- [Trivia](./Week8/Trivia.html)  
-- [Homepage](./Week8/Homepage.html)  
+### [Week 8: Web Development](./Week08_HTML,CSS,JavaScript)  
+- [Trivia](./Week08_HTML,CSS,JavaScript/trivia)  
+- [Homepage](./Week08_HTML,CSS,JavaScript/homepage)  
 
-### Week 9: Capstone Preparation  
-- [Birthdays](./Week9/Birthdays.sql)  
-- [Finance](./Week9/Finance.py)  
+### [Week 9: Capstone Preparation](./Week09_Flask)  
+- [Birthdays](./Week09_Flask/birthdays)  
+- [Finance](./Week09_Flask/finance)  
 
 ---
 
