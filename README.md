@@ -16,7 +16,7 @@ CS50x is an entry-level course designed to teach the basics of computer science,
 ## 📂 Repository Structure  
 Each folder corresponds to a specific week of the course and contains solutions to its problem sets. Click on the links below to explore the code and projects!  
 
-### Week 1: C Basics  
+### [Week 1: C Basics](./Week01_C)
 - [Hello, Me](./Week01_C/me)  
 - [Mario (Less)](./Week01_C/mario-less)  
 - [Mario (More)](./Week01_C/mario-more)  
@@ -72,7 +72,7 @@ Each folder corresponds to a specific week of the course and contains solutions 
    ```  
 2. Navigate to the folder of your choice:  
    ```bash
-   cd Week1
+   cd Week01_C
    ```  
 3. Compile and run the solutions (for C files):  
    ```bash
@@ -94,19 +94,8 @@ Each folder corresponds to a specific week of the course and contains solutions 
 
 ---
 
-## 🌟 Acknowledgments  
-This repository would not have been possible without the exceptional teaching and resources provided by **Professor David J. Malan** and the CS50 staff.  
-
-Feel free to explore my work, suggest improvements, or discuss programming ideas. Let's learn and grow together! 😊  
-
----
-
 ## 📬 Connect with Me  
 - **GitHub**: [gunathilakax](https://github.com/gunathilakax)  
-- **Email**: your-email@example.com  
+- **Email**: sithijashehara2001@gmail.com  
 
 Happy Coding! ✨  
-
---- 
-
-Let me know if you'd like further refinements or additional features for your README!
