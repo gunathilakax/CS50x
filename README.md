@@ -37,14 +37,14 @@ Each folder corresponds to a specific week of the course and contains solutions 
 - [Filter (Less)](./Week04_Memory/filter-less) 
 - [Recover](./Week04_Memory/recover)  
 
-### [Week 5: Data Structures](./Week05_Data Structures)  
-- [Inheritance](./Week05_Data Structures/inheritance)  
-- [Speller](./Week05_Data Structures/speller)  
+### [Week 5: Data Structures](./Week05_Data Structures)
+- [Inheritance](./Week05_Data Structures/inheritance)
+- [Speller](./Week05_Data Structures/speller)
 
 ### [Week 6: Sentimental Programming (Python)](./Week06_Python)  
 - [Sentimental / Hello](./Week06_Python/sentimental-hello)  
 - [Sentimental / Mario (Less)](./Week06_Python/sentimental-mario-less)
-- [Sentimental / Cash](./Week06_Python/sentimental-cash/sentimental-cash)  
+- [Sentimental / Cash](./Week06_Python/sentimental-cash/)  
 - [Sentimental / Readability](./Week06_Python/sentimental-readability)  
 - [DNA](./Week06_Python/dna)  
 
